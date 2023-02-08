@@ -55,7 +55,7 @@ export const GenerateClasseScreen = () => {
 
 const styles = StyleSheet.create({
     button: {
-        backgroundColor: "#2193C1",
+        backgroundColor: "#3DB20D",
         color: 'white',
         margin: 30,
         textAlign: 'center'
