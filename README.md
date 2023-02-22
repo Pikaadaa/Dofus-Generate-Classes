@@ -1,6 +1,6 @@
 # Dofus-Generate-Classes
  
-This application was developed during a React Native Hackathon by David Leuliette.
+This application was developed during a React Native Hackathon by David Leuliette https://github.com/flexbox.
  
 # Prerequisites
 
